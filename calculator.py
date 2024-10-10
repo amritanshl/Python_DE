@@ -17,6 +17,3 @@ def myfunc(x,y,z,/,*,a):
 
 
 
-
-multiplication()
-myfunc(1,2,4,a=22)
